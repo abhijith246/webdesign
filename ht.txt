@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta Charset="UTF-8">
+<title>My first Webpage</title>
+</head>
+<body>
+<h1>Abhijith</h1>
+<nav>
+<a href="#">One</a>
+<a href="#">Two</a>
+<a href="#">Three</a>
+<a href="#">About</a>
+</nav>
+<h2>Favorite Foods</h2>
+<ul>
+<li>Mango</li>
+<li>Pasta</li>
+<li>Fried Rice</li>
+<li>Black forest Cake</li>
+</ul>
+<h2>Achievements</h2>
+Progress in this course(100%)
+<meter min="0" max="100" value="100">This is a meter element</meter><br>
+Progress in the Specialization capstone(20%)
+<meter min="0" max="100" value="20">This is a meter element</meter><br>
+Progress in life goals(50%)
+<meter min="0" max="100" value="50">This is a meter element</meter><br>
+<h2>More About Me</h2>
+<details>
+<summary>My Childhood</summary>
+<p>I grew up in Delhi.I lived in Pitampura and i really liked that place.</p>
+</details> 
+<footer>
+<img src="http://www.intro-webdesign.com/images/newlogo.png" alt="Here there was supposed to be an image">
+This page was created by Abhijith & Collen van Lent.To learn more about web design, visit
+<a href="#">Intro to Web Design</a>
+</footer>
+</body>
+</html>
